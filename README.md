@@ -16,4 +16,8 @@ HTML5, CSS3 e JavaScript, sem frameworks.
 
 ## Como utilizar
 
-Abra o arquivo `index.html` no navegador ou
+Abra o arquivo `index.html` no navegador ou publique os arquivos no GitHub Pages. Personalize os dados da clínica e configure o número de WhatsApp em `script.js`.
+
+> Projeto demonstrativo. As imagens são ilustrativas e não representam resultados reais de tratamentos.
+
+Desenvolvido por **Sule Sampaio**.
